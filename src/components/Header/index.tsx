@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import { Flex } from '@chakra-ui/react';
 
-import logoWorldTrip from '../../../public/images/logo_world_trip.png';
+import logoWorldTrip from '../../../public/images/logo_world_trip.svg';
 
 export const Header = () => {
   return (

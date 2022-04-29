@@ -1,7 +1,7 @@
 import { Box, Flex, Text } from '@chakra-ui/react';
 import Image from 'next/image';
 
-import airplane from '../../../public/images/airplane.png';
+import airplane from '../../../public/images/airplane.svg';
 import { Container } from '../Container';
 
 export const Banner = () => {
