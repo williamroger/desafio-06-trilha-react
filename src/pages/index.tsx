@@ -1,4 +1,5 @@
 import { Banner } from "../components/Banner";
+import { TextDivider } from "../components/TextDivider";
 import { TravelTypes } from "../components/TravelTypes";
 
 export default function Home() {
@@ -6,6 +7,7 @@ export default function Home() {
     <main>
       <Banner />
       <TravelTypes />
+      <TextDivider />
     </main>
   )
 }
